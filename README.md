@@ -90,7 +90,7 @@ The hybrid BERT + Capsule Network architecture demonstrated improved performance
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 ### Programming Language
 
@@ -130,7 +130,7 @@ cd fake-news-detection-bert-capsule
 pip install -r requirements.txt
 
 
-## 🎓 Academic Contribution
+##  Academic Contribution
 
 This project was developed as a Final Year Project in Software Engineering and demonstrates the practical application of:
 
