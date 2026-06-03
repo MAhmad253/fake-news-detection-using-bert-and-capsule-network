@@ -1,0 +1,16 @@
+transformers
+torch
+datasets
+scikit-learn
+pandas
+numpy
+fastapi
+uvicorn[standard]
+python-dotenv
+joblib
+huggingface_hub[hf_xet]
+hf_xet
+rapidfuzz
+seaborn
+matplotlib
+chardet
